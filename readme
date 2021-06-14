@@ -1,0 +1,6 @@
+branch  = main
+git add *
+git commit -m "massage"
+
+cmd = git push -u origin main
+
